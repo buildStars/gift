@@ -170,7 +170,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 800);
         
         // 更改按钮文本
-        this.textContent = '💕 爱你哦 💕';
+        this.textContent = '为什么真心得不到真心';
         
         // 保存立方体的动画
         if (!cubeAnimation) {
